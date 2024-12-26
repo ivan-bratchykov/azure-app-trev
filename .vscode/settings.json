@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net9.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/5ef9b24a-abe5-4af5-809c-59bf5ee8a4a1/resourceGroups/az-group-rg2/providers/Microsoft.Web/sites/webapp-trev-vcode-tools"
+}
