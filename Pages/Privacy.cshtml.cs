@@ -14,7 +14,7 @@ public class PrivacyModel : PageModel
 
     public void OnGet()
     {
-        throw new Exception("test trets 11");
+        //throw new Exception("test trets 11");
     }
 }
 
